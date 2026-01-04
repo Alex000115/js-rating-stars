@@ -1,0 +1,14 @@
+body{
+  background:#020617;
+  color:white;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-family:Arial;
+}
+.stars span{
+  font-size:32px;
+  cursor:pointer;
+  color:gray;
+}
